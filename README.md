@@ -1,6 +1,7 @@
 # chinese_app
 
 A new Flutter project of chinese_app
+未完成の台湾中国語アプリ製作です。
 
 ## Getting Started
 
